@@ -10,3 +10,4 @@
 
 ![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayush-Tayal&show_icons=true&theme=dracula)
 
+![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayush-Tayal&show_icons=true)
