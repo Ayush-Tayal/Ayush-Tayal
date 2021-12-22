@@ -10,4 +10,4 @@
 
 ![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayush-Tayal&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-Tayal&theme=dark)](https://github.com/Ayush-Tayal/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-Tayal&theme=gruvbox)](https://github.com/Ayush-Tayal/github-readme-stats)
