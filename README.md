@@ -8,5 +8,5 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayush-Tayal&show_icons=true&theme=dark)
+![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayush-Tayal&show_icons=true&theme=dracula)
 
