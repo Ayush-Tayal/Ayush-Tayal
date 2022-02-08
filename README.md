@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Ayush Tayal
-- 🔭 I’m currently working at Mordor Intelligence
-- 🌱 I’m currently learning MERN Stack Development 
-- 📫 How to reach me: ... https://www.linkedin.com/in/ayush-tayal-4a962b18a/
+- 🔭 I’m currently working on ReactJs Projects
+- 🌱 I’m currently learning NextJs.
+- 📫 How to reach me: https://www.linkedin.com/in/ayush-tayal-4a962b18a/
 
 ![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayush-Tayal&show_icons=true&theme=dracula)
 
