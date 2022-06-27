@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Ayush Tayal
-- 🔭 I’m currently working on ReactJs Projects
+- 🔭 I’m currently working on MERN Stack Projects
 - 🌱 I’m currently learning NextJs.
 - 😄 Fun Fact: 1 +'1' = 11
 - 📫 How to reach me: https://www.linkedin.com/in/ayush-tayal-4a962b18a/
